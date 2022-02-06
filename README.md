@@ -1,2 +1,0 @@
-# cs50xiran
-this is cs50xiran
